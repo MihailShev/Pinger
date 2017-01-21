@@ -1,0 +1,5 @@
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\WrapSimpleWifi\bin\Release\WrapSimpleWifi.dll
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\WrapSimpleWifi\bin\Release\WrapSimpleWifi.pdb
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\WrapSimpleWifi\bin\Release\SimpleWifi.dll
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\WrapSimpleWifi\obj\Release\WrapSimpleWifi.dll
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\WrapSimpleWifi\obj\Release\WrapSimpleWifi.pdb

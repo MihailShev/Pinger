@@ -1,0 +1,5 @@
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\TestConnect\bin\Release\TestConnect.dll
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\TestConnect\bin\Release\TestConnect.pdb
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\TestConnect\obj\Release\TestConnect.dll
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\TestConnect\obj\Release\TestConnect.pdb
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\TestConnect\obj\Release\TestConnect.csprojResolveAssemblyReference.cache

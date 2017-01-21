@@ -1,0 +1,16 @@
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\bin\Debug\Pinger.exe.config
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\bin\Debug\Pinger.exe
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\bin\Debug\Pinger.pdb
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\bin\Debug\TestConnect.dll
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\bin\Debug\SimpleWifi.dll
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\bin\Debug\MgManageNetworkAdapter.pdb
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\bin\Debug\TestConnect.pdb
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\bin\Debug\WrapSimpleWifi.pdb
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\obj\Debug\Pinger.AddWifiForm.resources
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\obj\Debug\Pinger.SettingsForm.resources
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\obj\Debug\Pinger.HeadForm.resources
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\obj\Debug\Pinger.Properties.Resources.resources
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\obj\Debug\Pinger.csproj.GenerateResource.Cache
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\obj\Debug\Pinger.exe
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\obj\Debug\Pinger.pdb
+C:\Users\Михаил\YandexDisk\Программирование\C#\Проекты\Pinger\Pinger\obj\Debug\Pinger.csprojResolveAssemblyReference.cache
